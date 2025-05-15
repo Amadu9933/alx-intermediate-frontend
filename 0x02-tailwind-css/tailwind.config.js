@@ -1,7 +1,7 @@
 module.exports = {
   content: [
     "./src/**/*.{html,js}",
-    "./2-index.Html", // Add this specific file if needed
+    "./*", // Include this file explicitly if needed
   ],
   theme: {
     extend: {},
